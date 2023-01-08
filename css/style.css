@@ -1,0 +1,17 @@
+.hidden{display: none;}
+img {
+    position:absolute;
+    width:100%;
+    height:100%;
+    left: 0px;
+    top: 0px;
+    right:0px;
+    bottom:0px;
+    z-index: -1;
+    opacity:70%;
+    }
+#greeting{text-align: center;font-family: 'Gowun Dodum', sans-serif;}
+#clock{text-align: center;font-family: 'Gowun Dodum', sans-serif;}
+#todo-form{text-align: center;font-family: 'Gowun Dodum', sans-serif;}
+#quote{text-align: center;position: relative; top: 550px;font-family: 'Gowun Dodum', sans-serif;}
+#weather{text-align: center;position: relative; top: 600px;font-family: 'Gowun Dodum', sans-serif;}
